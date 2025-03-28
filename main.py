@@ -89,7 +89,7 @@ ROLES = {
 }
 
 LLMS = {
-    "gpt-4.5": "openai",
+    "gpt-4.5-preview": "openai",
     "gpt-4o": "openai",
     "gpt-4o-mini": "openai",
     "gpt-4-turbo": "openai",
